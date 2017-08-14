@@ -1,0 +1,65 @@
+@media screen and (max-width:768px){
+	.align article{
+		left: 0%;
+		margin: 0 auto;
+		width:60%;
+	}
+
+	.align h2{
+		font-size:2em;
+	}
+
+	.align article{
+		font-size:0.7em;
+	}
+}
+
+@media screen and (max-width:690px){
+	.align article{
+		width:55%;
+	}
+}
+
+@media screen and (max-width:640px){
+	.align article{
+		width:50%;
+	}
+}
+
+@media screen and (max-width:590px){
+	.align article{
+		width:45%;
+	}
+
+	.align h2{
+		font-size:1.4em;
+	}
+}
+
+@media screen and (max-width:540px){
+	.align article{
+		width:40%;
+	}
+}
+
+@media screen and (max-width:490px){
+	.align article{
+		width:35%;
+	}
+}
+
+@media screen and (max-width:440px){
+	.align article{
+		width:30%;
+	}
+}
+
+@media screen and (max-width:390px){
+	.align article{
+		width:25%;
+	}
+
+	.align h2{
+		font-size:1.2em;
+	}
+}

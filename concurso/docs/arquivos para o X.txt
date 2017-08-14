@@ -1,0 +1,3 @@
+arquivos de execução da inscrição e de contato que esta em scripts
+e a pasta toda do concurso
+renomear caminhos para redirecionamento
